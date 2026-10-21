@@ -21,6 +21,6 @@ dotnet run
 
 | Version | Train accuracy | Test accuracy |
 |---------|----------------|---------------|
-| Original (MSE) | TBD | TBD |
+| Original (MSE) | 98.88% | 98.50% |
 
 Parameters: maxEpochs = 1000, learnRate = 0.05, momentum = 0.01, seed = 1
